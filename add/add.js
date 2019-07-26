@@ -11,3 +11,7 @@ function foo(){
 function bar(){
     a = 300
 }
+
+function wa(){
+    bar = 1
+}
