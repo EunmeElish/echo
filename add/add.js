@@ -7,3 +7,7 @@ function add(){
 function foo(){
     console.log('111')
 }
+
+function bar(){
+    a = 300
+}
